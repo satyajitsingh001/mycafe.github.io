@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mycafe.github.io/static/css/main.c30f5a7c.css",
+    "main.js": "/mycafe.github.io/static/js/main.baabd392.js",
+    "static/js/787.3a699bad.chunk.js": "/mycafe.github.io/static/js/787.3a699bad.chunk.js",
+    "index.html": "/mycafe.github.io/index.html",
+    "main.c30f5a7c.css.map": "/mycafe.github.io/static/css/main.c30f5a7c.css.map",
+    "main.baabd392.js.map": "/mycafe.github.io/static/js/main.baabd392.js.map",
+    "787.3a699bad.chunk.js.map": "/mycafe.github.io/static/js/787.3a699bad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30f5a7c.css",
+    "static/js/main.baabd392.js"
+  ]
+}
